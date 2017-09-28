@@ -13,3 +13,7 @@ h1 {
 .panel-default > .panel-heading-custom {
 	background: #000050; color: white; 
 }
+
+.searchfield {
+	padding: 0 30px;
+}
