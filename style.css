@@ -1,0 +1,15 @@
+h1 {
+	font-size: 40px;
+}
+
+.header {
+	color: white;
+	background-color: #000050;
+	padding: 30px 50px;
+	margin: 0 auto;
+	border-radius: 10px;
+}
+
+.panel-default > .panel-heading-custom {
+	background: #000050; color: white; 
+}
